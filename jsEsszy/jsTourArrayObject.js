@@ -27,3 +27,15 @@ console.log(data);
 console.log("Trials 1 ",data.trial1);
 console.log("Trials 2 ",data.trial2);
 
+let count1 = 0;
+
+count1++;
+console.log("count value before arithematic operation", count1);
+count1--;
+
+count1 +=2;
+
+count1 +=3;
+
+
+console.log("count value after", count1);
